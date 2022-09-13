@@ -8,7 +8,7 @@ let getadvicebtn = document.getElementById('advice-btn');
 window.addEventListener('load', () =>{
     setTimeout(()=> { 
     getAdvicegenerator();
-}, 1000);
+}, 10);
 });
 
 //When the button is clicked the event get the advice and id from the function
