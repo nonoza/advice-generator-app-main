@@ -36,7 +36,7 @@ getadvicebtn.addEventListener("click",getAdvicegenerator);
             $('#advice-id').html("ID not valid");
             $('#advice-text').html("text not valid");
         }
-    }, 1000);
+    }, 250);
     });
     
 }
